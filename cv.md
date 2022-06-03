@@ -23,3 +23,6 @@
  ```
  # Experience
  None
+  ## Education
+ * **University:** Belorussian State Pedagogical University, managment in tourism
+ * **Courses:** The Rolling Scopes «JavaScript/Front-end. Stage 0»
