@@ -26,3 +26,5 @@
   ## Education
  * **University:** Belorussian State Pedagogical University, managment in tourism
  * **Courses:** The Rolling Scopes «JavaScript/Front-end. Stage 0»
+  ## English
+ A1 (I had been practicing English at school and at the university)
